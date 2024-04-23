@@ -1,5 +1,5 @@
 # About me
-I am Aditya Bawane, currently a quantitative finance professional, and a mathematical physicist by training. This is a repository of my projects and experiments mainly in quantitative finance, and occasionally in physics.
+I am currently a quantitative finance professional, and a mathematical physicist by training. This is a repository of my projects and experiments mainly in quantitative finance, and occasionally in physics.
 <!--
 **AdityaB23/AdityaB23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
